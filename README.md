@@ -1,6 +1,6 @@
 # collatz_conjecture
 
-This project focuses on identifying patterns in the outcomes of Collatz conjecture. We will be plotting the unit’s places of the outcomes along with the outcomes themselves.  
+This project focuses on identifying patterns in the outcomes of Collatz conjecture. We will be plotting the outcomes.  
 The concept of Collatz conjecture states that any positive number ultimately leads to value 1 when the following operations are iteratively applied to it:
 n/2 if the number is even
 (3n+2)/2 if the number is odd
