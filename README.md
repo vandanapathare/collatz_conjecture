@@ -8,4 +8,5 @@ n/2 if the number is even
 Given n is the number we need to operate on
 
 Collatz.py is a helper file that contains functions needed for analysis.
-Number_patterns_collatz.py goes through overall analysis.
+Analysis 1:  Number_patterns_collatz.py goes through analysis 1.
+Analysis 2: Unit's_place_patterns.ipynb goes through analysis 2.
